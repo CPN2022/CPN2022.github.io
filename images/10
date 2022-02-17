@@ -1,0 +1,1258 @@
+<!--getArticle 0.0035 --><!--Hottestnews 0.0075 --><!doctype html>	
+<html lang="zh-TW" class="rr-dk">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="zh-Hant-TW"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0" /> 
+<!-- favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="https://vip.udn.com/static/img/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://vip.udn.com/static/img/favicon.ico" />
+<link rel="apple-touch-icon" href="/static/img/icons/icon-152x152.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/img/icons/icon-152x152.png">
+<link rel="apple-touch-icon" sizes="192x192" href="/static/img/icons/icon-192x192.png">
+<meta name="twitter:card" content="summary" />
+<meta property="og:title" content="別被韓劇騙了！電子門鎖 怕鐵絲更怕駭客 | 聯合報"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://vip.udn.com/vip/story/121942/5230110"/>
+<meta property="og:image" content="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=92&y=220&sw=1188&sh=792&exp=3600"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1000"/>
+<meta property="og:site_name" content="聯合報數位版"/>
+<meta property="og:description" content="電子鎖漸漸成為近年智慧居家設備，尤其受到韓劇影響，許多年輕族群更願意嘗試安裝電子鎖，可以靠指紋辨識、密碼、NFC感應，甚至是遠端遙控解鎖，省去找鑰匙開鎖的麻煩，成為許多新成屋的首選設備。"/>
+<meta property="fb:admins" content="100031851106141" />
+<meta property="fb:app_id" content="312556436856954" />
+<meta property="fb:pages"content="219315794887869" />
+<meta property="article:author" content="https://www.facebook.com/udnplus/" />
+<meta property="article:publisher" content="https://www.facebook.com/udnplus/" />
+<meta name="description" content="電子鎖漸漸成為近年智慧居家設備，尤其受到韓劇影響，許多年輕族群更願意嘗試安裝電子鎖，可以靠指紋辨識、密碼、NFC感應，甚至是遠端遙控解鎖，省去找鑰匙開鎖的麻煩，成為許多新成屋的首選設備。" />
+<meta name="author" content="聯合報" /><meta name="copyright" content="聯合報" /><meta name="application-name" content="聯合報數位版" />
+<meta name="URL" content="https://vip.udn.com/vip/story/121942/5230110"/>
+<link rel="canonical" href="http://vip.udn.com/vip/story/121942/5230110"/>
+<meta name="date" content="2021-02-04 01:17"> <meta name="date.available" content="2021-02-04 01:17">
+<meta name="channel_id" content="8799" />
+<meta name="cate_id" content="121911" />
+<meta name="sub_id" content="121942" />
+<meta name="art_id" content="5230110" />
+<meta name="origion_common_url" content="https://vip.udn.com" />
+<script>
+rId = function(){
+	return 5230110;
+}
+</script>
+<meta name="news_keywords" content="駭客,監視器,新竹">
+<!-- #Location: /inc/meta/metaProperty -->
+	<title>別被韓劇騙了！電子門鎖 怕鐵絲更怕駭客 | 生活萬象 | 聯合報</title>
+	<link rel="manifest" href="/static/manifest.json" crossorigin="use-credentials">
+	
+<!-- #Location: /inc/meta/cssjs_preload -->	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500&display=swap&subset=chinese-traditional" rel="stylesheet" type="text/css">
+<link href="https://s.udn.com.tw/static/font-icons/css/fontello.css" rel="stylesheet" type="text/css">
+<link href="https://s.udn.com.tw/static/font-icons/css/animation.css?202202070938" rel="stylesheet" type="text/css">
+<link href="/static/css/story.css?202202070938" rel="stylesheet" type="text/css">
+
+
+<!-- #Location: /inc/meta/cssjs_header -->
+	<script>
+
+    if (navigator.userAgent.indexOf("MSIE") >= 0) {
+      var root = document.documentElement;
+      root.className += 'ie-incompatible';
+    }
+
+    if (localStorage) {
+      if (localStorage.getItem('udnRR:scheme') === 'light') {
+        var root = document.documentElement;
+        root.classList.remove('rr-dk');
+      }
+    }
+
+    if (window.CSS && CSS.supports('color', 'var(--test)')) {
+      console.log('styles.css');
+    } else {
+      console.log('styles.no-vars.css');
+
+        var link = document.createElement("link");
+        var root = document.documentElement;
+        root.className += ' ie-fallback';
+
+        link.href = '/static/css/ie-polyfill.css';
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        document.getElementsByTagName("head")[0].appendChild(link);
+
+    }
+
+</script>
+
+
+<script>
+function setCookie(name, value, expires)
+{
+	var expires = "expires=" + expires;
+	document.cookie = name + "=" + value + "; expires=" + expires + '; domain=.udn.com; path=/';
+}
+function getCookie(name) {
+	var value = "; " + document.cookie;
+	var parts = value.split("; " + name + "=");
+	if (parts.length == 2) return parts.pop().split(";").shift();
+}
+
+var _ga = getCookie('_ga');
+var _gaA = _ga.split(".");
+var google_id = '';
+for (i=2;i<_gaA.length;i++) google_id = google_id+_gaA[i]+'.';
+google_id = google_id.substring(0,google_id.length-1);
+//console.log(google_id);
+//if (typeof _ga !== 'undefined') var google_id = _ga.split(".")[2]+'.'+_ga.split(".")[3];
+//else var google_id = '__';
+var user_id = getCookie("udnland");
+if (typeof user_id === 'undefined') user_id = '';
+var etu_id = getCookie("__eruid");
+
+console.log('1.   etu_id: '+etu_id);
+console.log('2.  user_id: '+user_id);
+console.log('3.google_id: '+google_id);
+
+var gold_id = getCookie("udngold");
+if (typeof gold_id === 'undefined') gold_id = 'noset';
+</script>
+<!-- #Location: /inc/meta/udncookie -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script>
+<!-- #Location: /inc/meta/trace_ga -->
+<!-- Data Layer -->
+<script>
+dataLayer = [{
+	'etu_id'           : etu_id,
+	'user_id'          : user_id,
+	'google_id'        : google_id,
+	'cat'              : ['vip','cms','121911,生活','121942,生活萬象','121942,生活萬象'],
+	'content_tag'      : '駭客,監視器,新竹',
+	'product_category' : 'RR',
+	'publication_date' : '2021-02-04 01:17',
+	'content_level'    : '限付費'
+	}];
+</script>
+<!-- End Data Layer -->
+
+<!-- Data Layer Push -->
+<script>
+  var vipAuthType;
+  window.udnVipEvent = window.udnVipEvent || [];
+
+  fetch('/api/get_AuthType', {
+    method: 'POST',
+    headers: {
+      Accept: 'application/json',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ account: user_id, udngold: gold_id }),
+  })
+    .then(res => res.json())
+    .then(function (data) {
+      dataLayer.push({
+        event: 'page_load',
+        auth_type: data.identity,
+        custom_name: data.custom_name,
+      });
+      console.log('identity', data.identity);
+      vipAuthType = data.identity;
+      authStatusCallback();
+    });
+
+  function authStatusCallback() {
+    window.udnVipEvent.forEach(function (ii) {
+      if (typeof vipAuthType === 'undefined') return;
+      if (!ii.state) ii.event();
+      ii.state = true;
+    });
+  }
+</script>
+<!-- End Data Layer Push -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8B6NPF');</script>
+<!-- End Google Tag Manager --><script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "7390954" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1" />
+</noscript>
+<!-- #Location: /inc/meta/trace_comscore -->  
+   
+<!-- #Location: /inc/meta/trace -->
+	<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "NewsArticle",
+	"thumbnailUrl": "https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg",
+	"keywords": "駭客,監視器,新竹",
+	"url": "https://vip.udn.com/vip/story/121942/5230110",
+	"mainEntityOfPage": "https://vip.udn.com/vip/story/121942/5230110",
+	"headline": "別被韓劇騙了！電子門鎖 怕鐵絲更怕駭客",
+	"articleSection": "生活",
+	"datePublished": "1970-01-01T08:00:00+08:00",
+	"dateModified": "2021-02-04T01:17:56+08:00",
+	"image": {
+		"@type": "ImageObject",
+		"contentUrl": "https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg",
+		"url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=92&y=220&sw=1188&sh=792&exp=3600",
+		"name": "電子鎖成為許多新成屋的首選設備。圖／聯合報系資料照片",
+		"height": "1000",
+		"width": "800"
+	},
+	"author": {
+		"@type": "Person",
+		"name": "記者巫鴻瑋、王駿杰"
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "聯合報數位版",
+		"url": "https://vip.udn.com",
+		"sameAs": "",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://p.udn.com.tw/upf/2020_vip/fb.jpg?20210101"
+		}
+	}
+		,
+	"isAccessibleForFree": "False",
+	"hasPart": {
+		"@type": "WebPageElement",
+		"isAccessibleForFree": "False",
+		"cssSelector": ".paywall"
+	}
+	}
+</script>
+<!-- #Location: /inc/meta/structured_schemaorg_story -->
+<!-- #Location: /inc/meta/structured_schemaorg_nav -->
+<!-- #Location: /inc/meta/structured -->
+	<!-- #Location: /inc/ads/no_more_top --></head>
+<!-- #Location: /inc/meta -->
+<body>
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js"></script>
+	<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+	<div class="udn-overlay"></div>
+	<!-- #Location: /inc/ads/under_the_body -->	<header class="header">
+    <!-- data-expand 為分類cate的id， 當在類別頁時候，才需要加上，首頁或不屬於任何cate分類就不需要加-->
+    <div class="container">
+
+        <a class="logo" alt="rr-index" href="/" title="回到聯合報">
+            <img src="/static/img/logo.svg" alt="rr-logo">
+        </a>
+
+        <!-- mark by gesus@20210118
+	<nav class="navigation">
+			<section class="navigation-content ">
+			<a href="/vip/cate/122044" class="navigation-list">聽幕後</a>
+			<div class="navigation-sub" data-nav="122044">
+							<a href="/vip/cate/122044/122045" class="navigation-list ">你給我記者</a>
+							<a href="/vip/cate/122044/122244" class="navigation-list ">部隊鍋</a>
+							<a href="/vip/cate/122044/122242" class="navigation-list ">白話財經</a>
+							<a href="/vip/cate/122044/122216" class="navigation-list ">遠方</a>
+							<a href="/vip/cate/122044/122217" class="navigation-list ">郭崇倫會客室</a>
+							<a href="/vip/cate/122044/122379" class="navigation-list ">讀饗時光</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/newspaper" class="navigation-list">報紙</a>
+			<div class="navigation-sub" data-nav="121522">
+							<a href="/vip/cate/121522/121523" class="navigation-list ">A落_101-114</a>
+							<a href="/vip/cate/121522/122081" class="navigation-list ">AA落_141-144</a>
+							<a href="/vip/cate/121522/121584" class="navigation-list ">B落_117-118</a>
+							<a href="/vip/cate/121522/121585" class="navigation-list ">C落_125-131</a>
+							<a href="/vip/cate/121522/121586" class="navigation-list ">D落_副刊＆健康</a>
+							<a href="/vip/cate/121522/121587" class="navigation-list ">E落_周報</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/121155" class="navigation-list">焦點</a>
+			<div class="navigation-sub" data-nav="121155">
+							<a href="/vip/cate/121155/121160" class="navigation-list ">焦點話題</a>
+							<a href="/vip/cate/121155/121940" class="navigation-list ">獨家幕後</a>
+							<a href="/vip/cate/121155/122368" class="navigation-list ">疫情追蹤</a>
+							<a href="/vip/cate/121155/122468" class="navigation-list ">午間快報</a>
+							<a href="/vip/cate/121155/122467" class="navigation-list ">今日精摘</a>
+							<a href="/vip/cate/121155/122608" class="navigation-list ">家長相談室</a>
+							<a href="/vip/cate/121155/122609" class="navigation-list ">教育現場</a>
+							<a href="/vip/cate/121155/122664" class="navigation-list ">圖解新聞</a>
+							<a href="/vip/cate/121155/122066" class="navigation-list ">讀者議會</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/122364" class="navigation-list">觀點</a>
+			<div class="navigation-sub" data-nav="122364">
+							<a href="/vip/cate/122364/122365" class="navigation-list ">總編News開箱</a>
+							<a href="/vip/cate/122364/122366" class="navigation-list ">聯合晚點評</a>
+							<a href="/vip/cate/122364/122367" class="navigation-list ">關鍵評析</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/121909" class="navigation-list">財經</a>
+			<div class="navigation-sub" data-nav="121909">
+							<a href="/vip/cate/121909/121938" class="navigation-list ">財經掃描</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/121910" class="navigation-list">國際</a>
+			<div class="navigation-sub" data-nav="121910">
+							<a href="/vip/cate/121910/121937" class="navigation-list ">世界鏡頭</a>
+						</div>
+		</section>
+			<section class="navigation-content active">
+			<a href="/vip/cate/121911" class="navigation-list">生活</a>
+			<div class="navigation-sub" data-nav="121911">
+							<a href="/vip/cate/121911/121942" class="navigation-list ">生活萬象</a>
+							<a href="/vip/cate/121911/122610" class="navigation-list ">法律快譯通</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/121915" class="navigation-list">軍武</a>
+			<div class="navigation-sub" data-nav="121915">
+							<a href="/vip/cate/121915/122151" class="navigation-list ">軍武</a>
+							<a href="/vip/cate/121915/121943" class="navigation-list ">歷史揭密</a>
+							<a href="/vip/cate/121915/122662" class="navigation-list ">新加坡航空展</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/newsroom" class="navigation-list">開放編輯室</a>
+			<div class="navigation-sub" data-nav="121951">
+							<a href="/vip/cate/121951/122040" class="navigation-list ">編輯室成果</a>
+						</div>
+		</section>
+			<section class="navigation-content ">
+			<a href="/vip/cate/121912" class="navigation-list">專題</a>
+			<div class="navigation-sub" data-nav="121912">
+							<a href="/vip/cate/121912/121945" class="navigation-list ">議題</a>
+							<a href="/vip/cate/121912/122607" class="navigation-list ">多媒體</a>
+						</div>
+		</section>
+			<section class="navigation-content">
+			<a href="/vip/audio" class="navigation-list"><span>聽新聞</span> <i class="i-headset"></i></a>
+		</section>
+  
+	</nav>
+-->
+
+        <!-- new navigation with slide -->
+        <nav class="navigation splide navigation-slider">
+            <div class="splide__track">
+                <ul class="splide__list">
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/122044" class="navigation-list">聽幕後</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/newspaper" class="navigation-list">報紙</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/121155" class="navigation-list">焦點</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/122364" class="navigation-list">觀點</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/121909" class="navigation-list">財經</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/121910" class="navigation-list">國際</a>
+                    </li>
+                                        <li class="splide__slide navigation-content active">
+                        <a href="/vip/cate/121911" class="navigation-list">生活</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/121915" class="navigation-list">軍武</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/newsroom" class="navigation-list">開放編輯室</a>
+                    </li>
+                                        <li class="splide__slide navigation-content ">
+                        <a href="/vip/cate/121912" class="navigation-list">專題</a>
+                    </li>
+                                        <!--
+				<li class="splide__slide navigation-content">
+					<a target="_blank" href="/vip/audio" class="navigation-list"><i class="i-headset"></i></a>
+ 				</li>
+-->
+                </ul>
+            </div>
+        </nav>
+        <!-- end navigation with slide -->
+
+        <section class="tools-box" data-state="loading">
+            <div class="tools-box__holder">
+                <a class="tools-box__item subscription" href="/vip/order" title="訂閱"><span
+                        class="tools-box__text">訂閱</span></a>
+                <span class="tools-box__item user-menu" role="button" aria-pressed="false">
+                    <a href="#" title="登入" class="tools-box__action user-login"><i class="i-user-not-login"></i><span
+                            class="tools-box__text">登入</span></a>
+                    <div class="card-box">
+                        <span class="card-box__btn btn"> <a href="/member/login" class="user-login text-red">登入</a>/<a
+                                href="/member/login#signup" class="user-signup text-red">註冊</a> </span>
+                        <a href="/member/account/forget" title="忘記密碼" class="card-box__btn btn">忘記密碼</a>
+                        <a href="/member/qa/faq" title="常見問題" class="card-box__btn btn">常見問題</a>
+                    </div>
+                </span>
+                <span class="tools-box__item user-menu user-logout">
+                    <a href="/member/index" class="tools-box__action">
+                        <i class="i-user-news"><span class="user-notification"></span></i>
+                        <span class="tools-box__text">用戶</span>
+                    </a>
+                    <div class="card-box">
+                        <span title="暱稱" class="card-box__btn btn user-nick text-red"></span>
+                        <a href="/member/mynews/track/list" title="我的新聞" class="card-box__btn btn">我的新聞</a>
+                        <a href="/member/order/list" title="訂單管理" class="card-box__btn btn">訂單管理</a>
+                        <!--
+					<a href="/member/order/list" title="會員中心" class="card-box__btn btn">訂閱查詢</a>
+					<a href="/member/qa/faq" title="常見問題" class="card-box__btn btn">常見問題</a>
+					-->
+                        <a href="#" title="登出" class="card-box__btn btn user-logout--btn">登出</a>
+                    </div>
+                </span>
+                <span class="tools-box__item notification-bell" role="button" aria-pressed="false"
+                    aria-label="Toggle notification" title="通知">
+                    <i class="i-notification"></i>
+                </span>
+                <!--<span class="tools-box__item scheme" id="schemeToggler" role="button" aria-pressed="false" aria-label="Toggle Color Scheme" title="模式"></span>-->
+                <span class="tools-box__item nav-menu" id="menuToggler" role="button" aria-pressed="false"
+                    aria-label="Toggle Menu" title="選單"><i class="i-list-search"></i></span>
+            </div>
+        </section>
+
+        <section class="overlay-menu notification-section">
+            <div class="container notification__holder--append"></div>
+        </section>
+
+        <!-- add by gesus@20210118 -->
+        <section class="overlay-menu full-menu">
+                      <span class="btn close-btn" aria-label="close" role="button"><i class="i-close"></i></span>
+            <div class="container">
+
+              <div class="input-holder" role="search">
+                <input type="search" placeholder="請輸入關鍵字" aria-label="input-search">
+                <span class="btn btn-search" aria-label="submit-search"><i class="i-search"></i></span>
+              </div>
+
+              <section class="site-links">
+                <h3 class="site-links__title">網站導覽</h3>
+                <div class="site-links__wrapper">
+                  <section class="site-product">
+<a href="/vip/cate/122044?from=searchmap" title="聽幕後" class="site-product__link list-ellipsis">聽幕後</a>
+                    <a href="/vip/newspaper" title="報紙" class="site-product__link list-ellipsis">報紙</a>
+                    <a href="/vip/cate/121155?from=searchmap" title="焦點" class="site-product__link list-ellipsis">焦點</a>
+                    <a href="/vip/cate/122364?from=searchmap" title="觀點" class="site-product__link list-ellipsis">觀點</a>
+                    <a href="/vip/cate/121909?from=searchmap" title="財經" class="site-product__link list-ellipsis">財經</a>
+                    <a href="/vip/cate/121910?from=searchmap" title="國際" class="site-product__link list-ellipsis">國際</a>
+                    <a href="/vip/cate/121911?from=searchmap" title="生活" class="site-product__link list-ellipsis">生活</a>
+                    <a href="/vip/cate/121915?from=searchmap" title="軍武" class="site-product__link list-ellipsis">軍武</a>
+                    <a href="/vip/newsroom?from=searchmap" title="開放編輯室" class="site-product__link list-ellipsis">開放編輯室</a>
+<a href="/vip/cate/121912?from=searchmap" title="專題" class="site-product__link list-ellipsis">專題</a>               
+                    
+                    <a href="/vip/cate/121980/122037?from=searchmap" title="網站公告" class="site-product__link list-ellipsis">網站公告</a>
+<a href="/member/index?from=searchmap" title="用戶中心" class="site-product__link list-ellipsis">用戶中心</a>
+                    
+                  </section>
+                </div>
+              </section>
+            </div>
+  
+            <footer class="footer">
+              <div class="container">
+                <section class="footer-social">
+                  <a target="_blank" href="https://www.facebook.com/udnplus/" title="Facebook" class="btn btn-social" aria-label="Facebook"><i class="i-fb-round"></i></a>
+                  <a target="_blank" href="https://www.instagram.com/udngroup/" title="Instagram" class="btn btn-social" aria-label="Instagram"><i class="i-instagram-1"></i></a>
+                  <a target="_blank" href="https://www.youtube.com/channel/UCEt9Vy6Kz4GKlePLgIJbtoA" title="Youtube" class="btn btn-social" aria-label="Youtube"><i class="i-youtube3"></i></a>
+                  <a target="_blank" href="https://bit.ly/2XP6XZq" title="Line" class="btn btn-social" aria-label="Line"><i class="i-line"></i></a>
+                </section>
+    
+                <section class="footer-note">
+                  <nav class="footer-note__wrapper">
+                    <a href="/member/products?from=searchmap" title="產品介紹" class="footer-note__link">產品介紹</a>
+                    <a href="/member/qa/faq?from=searchmap" title="常見問題" class="footer-note__link">常見問題</a>
+                    <a class="footer-note__link" href="/member/qa/contact?from=searchmap">我要發問</a>
+                    <a style="padding-left:5px" href="/members/udn_privacy?from=searchmap" title="隱私政策">隱私政策</a>&
+                    <a href="http://www.udngroup.com/members/service?from=searchmap" title="服務協議">服務條款</a>
+                  </nav>
+                  <div class="footer-word">
+                    聯合報系著作權所有 © 2020-22 All Rights Reserved
+                  </div>
+                </section>
+              </div>
+            </footer><!-- #Location: /inc/ads/three_lines-->
+        </section>
+    </div>
+</header>
+<!-- #Location: /inc/top/menu --><!-- #Location: /inc/top -->
+<main class="main-content main-story two-column paywall " data-state="loading">
+<div class="container">
+	<section class="main-content__wrapper">
+		          <aside class="article-social">
+            <a href="#" aria-label="Facebook" title="分享FB" class="btn btn-social btn-social--facebook"><i class="i-fb-round"></i></a>
+            <a href="#" aria-label="Line" title="分享Line" class="btn btn-social btn-social--line"><i class="i-line"></i></a>
+        
+            <span role="button" aria-label="comment" class="btn btn-social btn-social--comment">
+              <i class="i-discuss"></i>
+            </span>
+            <span role="button" aria-label="bookmark" title="收藏" class="btn btn-social btn-icon btn-social--bookmark">
+              <i class="i-bookmark-empty"></i>
+            </span>
+            <span role="button" aria-label="text-size" title="調整字形大小" class="btn btn-social btn-social--text" id="text-size">
+              <i class="i-text-size"></i>
+            </span>
+          </aside>
+		<section class="article-content__wrapper" data-pv="https://misc.udn.com/record/pageview/8799/121911/121942/5230110">
+			<article class="article-content">
+	<section class="article-content__top">
+		<section class="article-content__cate"><a href="https://vip.udn.com/vip/cate/121911/121942">生活萬象</a></section>
+		<header class="article-content__header">
+			<h1 class="article-content__title">別被韓劇騙了！電子門鎖 怕鐵絲更怕駭客</h1>
+		</header>
+		<figure class="article-content__cover" style="--bg-image: url('https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=800');">
+	<picture>
+		<source media="(min-width: 1024px)" srcset="
+                          https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=800&nt=1" type="image/webp">
+		<source media="(min-width: 1024px)" srcset="
+                          https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=800" type="image/jpeg">
+		<source srcset="
+                          https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=400&nt=1" type="image/webp">
+		<source srcset="
+                          https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=400" type="image/jpeg">
+		<img class=" ls-is-cached lazyloaded" src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/02/04/realtime/11485150.jpg&s=Y&x=38&y=218&sw=1134&sh=832&sl=W&fw=800&exp=3600&w=800" loading="lazy" alt="電子鎖成為許多新成屋的首選設備。圖／聯合報系資料照片">
+	</picture>
+	<figcaption>電子鎖成為許多新成屋的首選設備。圖／聯合報系資料照片</figcaption>
+</figure>
+<!-- #Location: /inc/content/story/media_cover_image -->
+	</section>
+
+	<div class="article-content__subinfo">
+		<span class="article-content__author"><span>聯合報</span> ／ 記者巫鴻瑋、王駿杰</span>
+		<time class="article-content__time">2021-02-04 01:17</time>
+	</div>
+
+	
+	<div class="article-content__paragraph">
+		<section class="article-content__editor">
+		<p>電子鎖漸漸成為近年智慧居家設備，尤其受到韓劇影響，許多年輕族群更願意嘗試安裝電子鎖，可以靠指紋辨識、密碼、NFC感應，甚至是遠端遙控解鎖，省去找鑰匙開鎖的麻煩，成為許多新成屋的首選設備。</p><div class="paywall-content" data-state="idle">
+	<div class="paywall-content__wrapper">
+		<i class="spin4 animate-spin"></i>
+		
+		<div class="paywall-free" style="letter-spacing:0"><!-- 會員限定，未登入 -->
+			<h4 style="font-size:24px">登入看完整精彩內容！</h4>
+			<p style="line-height:1.8;font-size:18px">支持深思細讀的媒體</p>
+			<div class="paywall-content__member">				
+				<a class="btn btn-red" href="https://vip.udn.com/member/login" style="font-size:20px" id="paywall_login">登入閱讀</a>
+	        </div>
+			<p style="line-height:1.8;font-size:18px;">還不是會員？ <a href="https://vip.udn.com/member/login#signup" id="paywall_signup">馬上註冊</a></p>
+		</div>
+
+		<div class="paywall-login" style="letter-spacing:0"><!-- 訂戶限定, 未登入-->
+			<h4 style="font-size:24px">訂閱看完整精彩內容！</h4>
+			<p style=" line-height:1.6;font-size:18px">登入會員 享免費試閱</p>
+			<div class="paywall-content__member">				
+				<a class="btn btn-red" href="https://vip.udn.com/member/login" style="font-size:20px" id="paywall_login">登入閱讀</a>
+	        </div>
+		<p style="line-height:1.8;font-size:18px; font-weight:400">還不是會員？ <a href="https://vip.udn.com/member/login#signup" id="paywall_signup">馬上註冊</a> ｜ <a href="https://vip.udn.com/vip/order" id="paywall_order">優惠方案</a></p>
+		</div>
+
+
+		<div class="paywall-subscription" style="letter-spacing:0"><!-- 訂戶限定, 已登入但未付費或已過期 -->
+            <h4 style="font-size:24px">訂閱看完整精彩內容</h4>
+            <p style="line-height:1.8;font-size:18px">支持深思細讀的媒體</p>
+		    <div class="paywall-content__member">
+				<a class="btn btn-red" href="https://vip.udn.com/vip/order" style="font-size:20px" id="paywall_order">訂閱支持</a>
+		    </div>
+		    <!-- 申請 7天試閱，不可刪除或隱藏 Start --><p style="line-height:1.8;font-size:18px;"><strong class="text-red"></strong></p><!-- 申請 7天試閱 End -->
+		</div>
+
+	</div>
+</div>
+<!-- paywall_order   paywall_login  paywall_signup 
+https://vip.udn.com/member/login#signup
+https://vip.udn.com/member/login
+https://vip.udn.com/vip/order
+?from=paywall
+-->				</section>
+
+		<footer class="article-content__footer">
+			<div class="article-discuss">討論數: <span class="article-discuss__count">0</span></div>
+				<section class="keywords" id="keywords">
+		<span class="btn btn-border btn-border--blue btn-keyword">
+			<a href="/search/tagging/8799/駭客" data-rel="/8799/163810">駭客</a>
+		</span>
+		<span class="btn btn-border btn-border--blue btn-keyword">
+			<a href="/search/tagging/8799/監視器" data-rel="/8799/168437">監視器</a>
+		</span>
+		<span class="btn btn-border btn-border--blue btn-keyword">
+			<a href="/search/tagging/8799/新竹" data-rel="/8799/156492">新竹</a>
+		</span>
+	</section>
+
+			<section class="article-content__plugins">
+				<div class="fb-like" data-href="https://vip.udn.com/vip/story/121942/5230110" data-width="" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+				<span class="plugins-line">
+					<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-ver="3" data-url="https://vip.udn.com/vip/story/121942/5230110" data-color="default" data-size="small" data-count="false" style="display: none;" class=""></div>
+				</span>
+			</section>
+		</footer>
+	</div>
+</article>
+									          <section class="section-recommendation context-box more-news">
+            
+            <header class="context-box__header">
+              <h2 class="context-box__title">推薦閱讀</h2>
+            </header>
+          
+            <div class="context-box__content story-list__holder story-list__holder--right story-list__holder--feature">
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+                <div class="story-list__news story-list__news--feature--item">
+                 
+                  <div class="story-list__image">
+                    <a href="#" title=""></a>
+                  </div>
+                
+                  <div class="story-list__text">
+                    <h2 class="story-list__title">
+                      <a href="#" title=""></a>
+                    </h2>
+                
+                      <time class="story-list__time" datetime=""></time>
+                
+                      <p><a href="#"></a></p>
+                
+                  </div>
+                
+                </div>
+          
+              <section class="story-list__holder--append"></section>
+          
+              <!-- 按鈕展開結構 -->
+              <div class="btn-holder btn-holder--center">
+                <button class="btn btn-ripple btn-more btn-more--news btn-more--feature" aria-label="more-news"
+                  data-query="{'page': '0', 'type': 'ddd_itemBase', 'cate_id': 123214}" data-pid="[]" data-state="idle">More<i class="i-arrow5-down"></i></button>
+              </div>
+          
+            </div>
+            
+          </section>
+			<section class="discuss-board context-box" id="discussApp">
+            <header class="context-box__header">
+              <h3 class="context-box__title">評論</h3>
+            </header>
+          
+            <div class="context-box__content" id="comments_body" :class="{'rules-open': rulesOpen}" :data-sort="sortType"  v-cloak>
+          
+              <div class="input-field">
+                <textarea :disabled="postState !== 'idle'" v-model="postText" aria-label="comment-textarea" cols="45" rows="5" maxlength="500"
+                  class="discuss-board__textarea" placeholder="500字以內"></textarea>
+          
+                <div class="discuss-board__tools">
+                  <span class="btn btn-lg btn--selection rules-toggler" @click="rulesToggler" :class="{'btn--selection-open': rulesOpen}">規範 <i class="i-arrow6-down"></i></span>
+                  <button class="btn btn-ripple btn-comment--post btn-red" @click="postDiscuss" aria-label="post" :data-state="postState">發布</button>
+                </div>
+            
+          
+                <div class="discuss-board__rules">
+                  <ul style="font-size:larger">
+                    <li>留言不得有違法或侵害他人權益之言論，違者應自負法律責任。</li>
+                    <li>對於明知不實或過度情緒謾罵之言論，經網友檢舉或本網站發現，聯合報有權逕予刪除留言、停權或解除會員資格。不同意上述規範者，請勿留言。</li>
+                    <li>對於無意義、與本文無關、明知不實、謾罵之留言，聯合報有權逕予刪除留言、停權或解除會員資格。不同意上述規範者，請勿留言。</li>
+                    <li>凡「暱稱」涉及謾罵、髒話穢言、侵害他人權利，聯合報有權逕予刪除留言、停權或解除會員資格。不同意上述規範者，請勿留言。</li>
+                  </ul>
+                </div>
+              </div>
+          
+              <header class="discuss-board__header">
+                <div class="discuss-board__total">全部評論 (<span class="rr-no">{{total}}</span>)</div>
+                
+                <div class="sort-box" :class="{'sort-box--open': sortBox}">
+                  <span class="sort-box__btn btn list-ellipsis" :class="{'active': sortType === 'popular'}" @click="sortDiscuss('popular')">按讚最多</span>
+                  <span class="sort-box__btn btn list-ellipsis" :class="{'active': sortType === 'comment'}" @click="sortDiscuss('comment')">最多回覆</span>
+                  <span class="sort-box__btn btn list-ellipsis" :class="{'active': sortType === 'newest'}" @click="sortDiscuss('newest')">新到舊　</span>
+                  <span class="sort-box__btn btn list-ellipsis" :class="{'active': sortType === 'oldest'}" @click="sortDiscuss('oldest')">舊到新　</span>
+                </div>
+               <button class="btn btn-lg btn--selection" :class="{'btn--selection-open': sortBox}" @click="toggleSort">排序方式 <i class="i-arrow6-down"></i></button>
+              </header>
+          
+              <div class="discuss-board__content" :class="{'discuss-board__content--loading': isLoading}">
+                
+                <!-- by list -->
+           
+                <section class="discuss-board__list" v-for="(discuss, index) in lists" :key="discuss.id" :class="{'discuss-board__list--flash' : priority_id === discuss.id}">
+          
+                  <rr-discuss :discuss="discuss" @reply="receiveReply($event)" can_reply="1" @delete-post="filterReply"></rr-discuss>
+           
+                  <div class="discuss-details__reply">
+                    <rr-discuss :discuss="reply" can_reply="0" v-for="reply in discuss.replies" :key="reply.id" @delete-post="filterReply"></rr-discuss>
+                    <span class="btn btn--reply" v-if="discuss.total_reply > discuss.replies.length && !discuss.is_reply_end" @click="loadReply(discuss)" :data-state="discuss.loadReply"><i class="i-follow"></i>看更多回覆</span>
+                  </div>
+                </section>
+          
+          
+          
+              </div>
+          
+          
+              <div class="btn-holder btn-holder--center" v-if="!isEnd">
+                <button class="btn btn-ripple btn-more" @click="getComment" :data-state="(isLoading) ? 'loading': 'idle'" aria-label="more-comment"
+                  data-id="more-comment">More <i class="i-arrow5-down"></i></button>
+              </div>
+          
+            </div>
+          </section>
+<!-- ad_id_18020 --><!-- #Location: /inc/ads/article_ads_block -->					</section> 
+	</section>
+	<aside class="main-content__aside" >
+		<section class="main-content__aside-wrapper">
+						<section class="section-hottest context-box">
+	<header class="context-box__header">
+		<h2 class="context-box__title">熱門</h2>
+	</header>
+        
+	<div class="context-box__content context-box__content--red">
+		<ol class="order-list">
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6101383?from=vipudn_hotlist_story" title="台灣入大清版圖歪打正著？施琅竟為私利 處心積慮想把台灣歸還荷蘭">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16057308.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16057308.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16057308.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16057308.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16057308.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300" loading="lazy" alt="台灣入大清版圖歪打正著？施琅竟為私利 處心積慮想把台灣歸還荷蘭" title="台灣入大清版圖歪打正著？施琅竟為私利 處心積慮想把台灣歸還荷蘭">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6101383?from=vipudn_hotlist_story" title="台灣入大清版圖歪打正著？施琅竟為私利 處心積慮想把台灣歸還荷蘭">台灣入大清版圖歪打正著？施琅竟為私利 處心積慮想把台灣歸還荷蘭</a></h2>
+					</div>
+				</div>
+			</li>
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6097446?from=vipudn_hotlist_story" title="【土地正義300年／上】橫跨百年土地官司 關鍵清朝「契尾」能否獲認證扭轉勝敗？">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/14/realtime/16048144.jpg&s=Y&x=10&y=148&sw=1044&sh=696&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/14/realtime/16048144.jpg&s=Y&x=10&y=148&sw=1044&sh=696&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/14/realtime/16048144.jpg&s=Y&x=10&y=148&sw=1044&sh=696&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/14/realtime/16048144.jpg&s=Y&x=10&y=148&sw=1044&sh=696&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/14/realtime/16048144.jpg&s=Y&x=10&y=148&sw=1044&sh=696&exp=3600&w=300" loading="lazy" alt="【土地正義300年／上】橫跨百年土地官司 關鍵清朝「契尾」能否獲認證扭轉勝敗？" title="【土地正義300年／上】橫跨百年土地官司 關鍵清朝「契尾」能否獲認證扭轉勝敗？">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6097446?from=vipudn_hotlist_story" title="【土地正義300年／上】橫跨百年土地官司 關鍵清朝「契尾」能否獲認證扭轉勝敗？">【土地正義300年／上】橫跨百年土地官司 關鍵清朝「契尾」能否獲認證扭轉勝敗？</a></h2>
+					</div>
+				</div>
+			</li>
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6100891?from=vipudn_hotlist_story" title="海拔2600公尺的道路救援 一碗泡麵溫暖了車主的心">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16055055.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16055055.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16055055.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16055055.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16055055.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300" loading="lazy" alt="海拔2600公尺的道路救援 一碗泡麵溫暖了車主的心" title="海拔2600公尺的道路救援 一碗泡麵溫暖了車主的心">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6100891?from=vipudn_hotlist_story" title="海拔2600公尺的道路救援 一碗泡麵溫暖了車主的心">海拔2600公尺的道路救援 一碗泡麵溫暖了車主的心</a></h2>
+					</div>
+				</div>
+			</li>
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6098587?from=vipudn_hotlist_story" title="【土地正義300年／中】一只檜木箱救陳家證據 其他8000多名原墾農地為何變國有？">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16051183.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16051183.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16051183.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16051183.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/15/realtime/16051183.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300" loading="lazy" alt="【土地正義300年／中】一只檜木箱救陳家證據 其他8000多名原墾農地為何變國有？" title="【土地正義300年／中】一只檜木箱救陳家證據 其他8000多名原墾農地為何變國有？">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6098587?from=vipudn_hotlist_story" title="【土地正義300年／中】一只檜木箱救陳家證據 其他8000多名原墾農地為何變國有？">【土地正義300年／中】一只檜木箱救陳家證據 其他8000多名原墾農地為何變國有？</a></h2>
+					</div>
+				</div>
+			</li>
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6102390?from=vipudn_hotlist_story" title="烤鴨漲到半隻300還變小…鴨價創新高大缺貨 原因比缺蛋更複雜？">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16059407.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16059407.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16059407.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16059407.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/16/realtime/16059407.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=300" loading="lazy" alt="烤鴨漲到半隻300還變小…鴨價創新高大缺貨 原因比缺蛋更複雜？" title="烤鴨漲到半隻300還變小…鴨價創新高大缺貨 原因比缺蛋更複雜？">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6102390?from=vipudn_hotlist_story" title="烤鴨漲到半隻300還變小…鴨價創新高大缺貨 原因比缺蛋更複雜？">烤鴨漲到半隻300還變小…鴨價創新高大缺貨 原因比缺蛋更複雜？</a></h2>
+					</div>
+				</div>
+			</li>
+					<li class="order-list__news">
+				<div class="story-list__news">
+					<div class="story-list__image">
+						<a href="https://vip.udn.com/vip/story/121942/6103767?from=vipudn_hotlist_story" title="邁入超高齡社會 張曼娟：台灣還不太能體會「老」是怎麼回事">
+							<picture>
+<!-- 300x -->
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/17/realtime/16062473.png&s=Y&x=0&y=6&sw=859&sh=572&exp=3600&w=300&nt=1, https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/17/realtime/16062473.png&s=Y&x=0&y=6&sw=859&sh=572&exp=3600&w=450&nt=1 2x" type="image/webp">
+	<source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/17/realtime/16062473.png&s=Y&x=0&y=6&sw=859&sh=572&exp=3600&w=300 , https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/17/realtime/16062473.png&s=Y&x=0&y=6&sw=859&sh=572&exp=3600&w=450 2x" type="image/jpeg">
+	<img class="lazyload"  data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/02/17/realtime/16062473.png&s=Y&x=0&y=6&sw=859&sh=572&exp=3600&w=300" loading="lazy" alt="邁入超高齡社會 張曼娟：台灣還不太能體會「老」是怎麼回事" title="邁入超高齡社會 張曼娟：台灣還不太能體會「老」是怎麼回事">
+</picture>
+<!-- #Location: /inc/content/story/media_list_image -->
+						</a>
+					</div>
+					<div class="story-list__text">
+						<h2 class="story-list__title"><a href="https://vip.udn.com/vip/story/121942/6103767?from=vipudn_hotlist_story" title="邁入超高齡社會 張曼娟：台灣還不太能體會「老」是怎麼回事">邁入超高齡社會 張曼娟：台灣還不太能體會「老」是怎麼回事</a></h2>
+					</div>
+				</div>
+			</li>
+				</ol>
+	</div>
+</section>
+<!-- #Location: /inc/content/category/hottest_news -->
+			<section class="section-feature context-box">
+          
+            <header class="context-box__header">
+              <h2 class="context-box__title">猜你喜歡 <span id="featureRefresh" role="button" aria-label="feature-refresh" class="btn feature-refresh"></span></h2>
+            </header>
+          
+            <div class="context-box__content context-box__content--red">
+              <ol class="order-list">
+                  <li class="order-list__news order-list__news--feature"><div class="story-list__news story-list__news--feature--user">
+           
+            <div class="story-list__image">
+              <a href="#" title=""></a>
+            </div>
+          
+            <div class="story-list__text">
+              <h2 class="story-list__title">
+                <a href="#" title=""></a>
+              </h2>
+          
+          
+          
+            </div>
+          
+          </div>
+          </li>
+                  <li class="order-list__news order-list__news--feature"><div class="story-list__news story-list__news--feature--user">
+           
+            <div class="story-list__image">
+              <a href="#" title=""></a>
+            </div>
+          
+            <div class="story-list__text">
+              <h2 class="story-list__title">
+                <a href="#" title=""></a>
+              </h2>
+          
+          
+          
+            </div>
+          
+          </div>
+          </li>
+                  <li class="order-list__news order-list__news--feature"><div class="story-list__news story-list__news--feature--user">
+           
+            <div class="story-list__image">
+              <a href="#" title=""></a>
+            </div>
+          
+            <div class="story-list__text">
+              <h2 class="story-list__title">
+                <a href="#" title=""></a>
+              </h2>
+          
+          
+          
+            </div>
+          
+          </div>
+          </li>
+                  <li class="order-list__news order-list__news--feature"><div class="story-list__news story-list__news--feature--user">
+           
+            <div class="story-list__image">
+              <a href="#" title=""></a>
+            </div>
+          
+            <div class="story-list__text">
+              <h2 class="story-list__title">
+                <a href="#" title=""></a>
+              </h2>
+          
+          
+          
+            </div>
+          
+          </div>
+          </li>
+              </ol>
+            </div>
+              
+          </section>
+			<section style="text-align:right"><header class="context-box__header"></header>
+<!-- 請用 https://uc.udn.com.tw 不要用 http://uc.udn.com.tw -->
+<a href="https://vip.udn.com/vip/order?from=right_banner" title="閱讀素養考對了嗎?"><img src="https://p.udn.com.tw/upf/2020_vip/bd/rightbanner_edu_0210.gif" style="border:0"/></a></section><!-- ad_id_21008 --><!-- #Location: /inc/ads/look_right -->
+		</section>
+	</aside>
+</div>
+</main>
+<!-- #Location: /inc/content/c_story_48 -->
+<!-- #Location: /inc/content -->
+<style>
+  .countdown-promotion {
+    position: relative;
+    z-index: 6;
+    height: 0;
+    background-color: #0b57c0; /* 背景延伸色 */
+    background-image: url('https://p.udn.com.tw/upf/2020_vip/bd/curtain_pc_flight_0214.png'); /*電腦版圖片*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1280px 80px;
+    overflow: hidden;
+    transition: height 0.3s linear, transform 0s linear;
+  }
+
+  .menu-open .countdown-promotion ~ .header {
+    z-index: 5;
+  }
+
+  .countdown-promotion .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    padding: 0;
+    color: #c7c7c7;
+    font-size: 24px;
+  }
+
+  .countdown-promotion a {
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+
+  .countdown-promotion.open {
+    height: 80px;
+  }
+
+  @media screen and (max-width: 1297px) {
+    .countdown-promotion {
+      background-position: center;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .countdown-promotion {
+      background-image: url('https://p.udn.com.tw/upf/2020_vip/bd/curtain_mb_flight_0214.png'); /*手機版圖片*/
+      background-position: top center;
+      background-size: 600px 130px;
+    }
+    .countdown-promotion .close-btn {
+      top: 7px;
+      right: 7px;
+      color: #351b31;
+    }
+    .countdown-promotion a {
+      flex-flow: column wrap;
+      padding: 0 10px;
+    }
+    .countdown-promotion.open {
+      height: 130px;
+    }
+  }
+</style>
+<script>
+  (function () {
+    'use strict';
+
+    var banner = document.createElement('section');
+    banner.className = 'countdown-promotion';
+
+    var bannerClose = document.createElement('span');
+    bannerClose.className = 'btn close-btn';
+    bannerClose.innerHTML = '<i class="i-close"></i>';
+
+    var anchorLink = document.createElement('a');
+    anchorLink.className = 'container';
+    anchorLink.href = 'https://vip.udn.com/vip/cate/121915/122662?from=curtain'; // 連結
+    anchorLink.target = '_self';
+    anchorLink.innerHTML = '';
+
+    banner.appendChild(bannerClose);
+    banner.appendChild(anchorLink);
+
+    document.body.prepend(banner);
+
+    document.querySelector('.countdown-promotion .close-btn').addEventListener('click', function () {
+      banner.classList.remove('open');
+    });
+
+    window.udnVipEvent = window.udnVipEvent || [];
+    var cookieName = 'udn-vip-survey';
+    var freq = 5; // 每天顯示次數
+    var curtainEvent = {
+      state: false,
+      title: "2022新加坡航空展第一手解密", // 輸入活動名稱
+      event: setAuthEvent(4), //【0.非會員】【1.一般會員】【2.付費會員】【3.一般會員+付費會員】【4.全部】【5.非訂戶】
+    };
+    window.udnVipEvent.push(curtainEvent);
+
+    function openCurtainBanner() {
+      if (typeof getCookie(cookieName) === 'undefined' || parseInt(getCookie(cookieName)) < freq ) {
+        var current = typeof getCookie(cookieName) === 'undefined' ? 1 : parseInt(getCookie(cookieName)) + 1;
+        banner.classList.add('open');
+        document.cookie = cookieName + '=' + current + '; max-age=' + 60 * 60 * 24 + '; domain=' + document.location.host + '; path=/';
+      }
+    }
+    function setAuthEvent(identity) {
+      return function () {
+
+       if (identity === 4) {
+          openCurtainBanner();
+          return;
+        }
+       if (identity === 5 && vipAuthType < 2 ) {
+          openCurtainBanner();
+          return;
+        }
+        if (typeof vipAuthType !== 'undefined' && identity === 3 && vipAuthType >= 1) {
+          openCurtainBanner();
+          return;
+        }
+        if (typeof vipAuthType !== 'undefined' && vipAuthType === identity) {
+          openCurtainBanner();
+        }
+
+      };
+    }
+
+    console.log('curtain identity', vipAuthType);
+  })();
+</script>
+<!-- ad_id_19037 --><footer class="footer">
+    <div class="container">
+      <section class="footer-social">
+        <a target="_blank" href="https://www.facebook.com/udnplus/ " title="Facebook" class="btn btn-social" aria-label="Facebook"><i class="i-fb-round"></i></a>
+        <a target="_blank" href="https://www.instagram.com/udngroup/ " title="Instagram" class="btn btn-social" aria-label="Instagram"><i class="i-instagram-1"></i></a>
+        <a target="_blank" href="https://www.youtube.com/channel/UCEt9Vy6Kz4GKlePLgIJbtoA" title="Youtube" class="btn btn-social" aria-label="Youtube"><i class="i-youtube3"></i></a>
+        <a target="_blank" href="https://bit.ly/2XP6XZq " title="Line" class="btn btn-social" aria-label="Line"><i class="i-line"></i></a>
+      </section>
+  
+      <section class="footer-note">
+        <nav class="footer-note__wrapper">
+<a href="https://vip.udn.com/member/products?from=footer" title="產品介紹" class="footer-note__link">產品介紹</a>
+<a href="https://vip.udn.com/member/qa/faq?from=footer" title="常見問題" class="footer-note__link">常見問題</a>
+<a  class="footer-note__link" href="https://vip.udn.com/member/qa/contact?from=footer">我要發問</a>
+<a  class="footer-note__link" href="https://vip.udn.com/vip/corporate">企業團購</a>
+          <a style="padding-left:5px" target="_blank" href="http://www.udngroup.com/members/udn_privacy?from=footer" title="隱私政策">隱私政策</a> & <a class="footer-note__link" target="_blank" href="http://www.udngroup.com/members/service?from=footer" title="服務條款">服務條款</a><a href="https://bit.ly/3sklf1q" style="padding-left:10px" title="聯合新聞網">聯合新聞網</a>
+        </nav>
+
+        <div class="footer-word" style="padding-top:10px;">
+          聯合報系著作權所有 © 2020-22 All Rights Reserved
+        </div>
+      </section>
+  
+    </div>
+</footer><!-- ad_id_17991 --><!-- #Location: /inc/ads/no_more_down--><div id="gotop" role="button" aria-label="go-top" class="btn">
+	<i class="i-arrow5-up"></i>
+</div>
+<!-- #Location: /inc/mainhtml/main -->
+	
+<script src="/static/js/vendor.bundle.js?202202070938"></script>
+<script src="/static/js/story.bundle.js?202202070938"></script>
+
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js?2020041701"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-messaging.js?2020041701"></script>
+<script src="/static/js/fcm_init.js"></script>
+
+<!-- #Location: /inc/meta/cssjs_footer -->
+</body>
+</html>
+<!-- #Location /main -->
